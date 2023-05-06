@@ -1,2 +1,3 @@
 # Project-Book-Shop-Management-System-using-C-language
-This Application Created Using Pure C language. The Main Purpose Of this Application To Keep Track Of All Books in Shop and Provide facilities To User.
+This Application made for book shop the main purpose of this application to maintain information of all books present in shop 
+and also keeping books track. Application provide facilities such as adding, removing and so on. Application made in pure C language.
